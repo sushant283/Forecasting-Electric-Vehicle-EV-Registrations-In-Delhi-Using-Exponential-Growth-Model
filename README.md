@@ -23,7 +23,7 @@ Accuracy Metrics:
 Mean Absolute Error (MAE):  4833.717083919999
 Mean Squared Error (MSE): 48401565.68720798
 R-squared (R²): 0.9259474930620037
-The MAE and MSE are low relative to the data's scale, indicating good accuracy.The R² value (0.9259) suggests your model explains the majority of the variance, confirming it is well-suited for forecasting EV registrations.
+The MAE and MSE are low relative to the data's scale, indicating good accuracy.The R² value (0.9259) suggests model explains the majority of the variance, confirming it is well-suited for forecasting EV registrations.
 
 
 Conclusion
